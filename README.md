@@ -24,5 +24,7 @@ It is made using basic Python concepts like lists, dictionaries, loops, and func
 2. Open terminal in that folder.
 3. Run:
 <img width="724" height="986" alt="Screenshot 2025-11-22 193958" src="https://github.com/user-attachments/assets/05fd671e-f8d8-4ec7-9dd7-9d64df052f71" />
+
 ## OUTPUT
+
 <img width="287" height="844" alt="Screenshot 2025-11-22 194146" src="https://github.com/user-attachments/assets/b098bfd6-a471-41cb-a0d4-9e72e2e843a1" />
